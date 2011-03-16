@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "eew_jp_notify"
   gem.homepage = "http://github.com/chsh/eew_jp_notify"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Show @eew_jp tweets to Growl using Twitter Streaming API.}
+  gem.description = %Q{Show @eew_jp tweets to Growl using Twitter Streaming API.}
   gem.email = "chsh@thinq.jp"
   gem.authors = ["CHIKURA Shinsaku"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
