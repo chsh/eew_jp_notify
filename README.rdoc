@@ -1,6 +1,17 @@
 = eew_jp_notify
 
-Description goes here.
+eew_jp_notify is a tool to notify @eew_jp tweets using Growl.
+It only works on Mac OS X.
+
+= Install
+
+sudo gem install eew_jp_notify
+
+= Run
+
+/usr/bin/eew_jp_notify -u twitter-user-name -p twitter-password
+
+If you want to stop this app, simply press ^C.
 
 == Contributing to eew_jp_notify
  
